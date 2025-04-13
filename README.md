@@ -5,7 +5,7 @@
 A passionate DevOps Engineer from India. I work in the Corporate IT Sector with 5 years of experience as devops engineer.
 
 [![Followers](https://img.shields.io/github/followers/jaiswaladi246?label=Followers&style=social)](https://github.com/niteshtheqa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nitesh-wayafalkar-5421a08b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nitesh%20Wayafalkar-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nitesh-wayafalkar-5421a08b/)
 
 ## 🔭 What I'm currently focused on:
 
@@ -15,11 +15,10 @@ A passionate DevOps Engineer from India. I work in the Corporate IT Sector with 
 ## 🌐 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nitesh-wayafalkar-5421a08b/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/devopsshack/)
 
 ## 🛠️ Languages and Tools:
 
-![Languages and Tools](https://github.com/jaiswaladi246/jaiswaladi246/blob/main/images/languages_and_tools.png)
+![Languages and Tools](https://github.com/niteshtheqa/niteshtheqa/blob/main/images/languages_and_tools.png)
 
 ## 📊 Nitesh Wayafalkar's GitHub Stats:
 
