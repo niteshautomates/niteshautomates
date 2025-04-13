@@ -4,7 +4,7 @@
 
 A passionate DevOps Engineer from India. I work in the Corporate IT Sector with 5 years of experience as devops engineer.
 
-[![Followers](https://img.shields.io/github/followers/jaiswaladi246?label=Followers&style=social)](https://github.com/niteshtheqa)
+[![Followers](https://img.shields.io/github/followers/niteshtheqa?label=Followers&style=social)](https://github.com/niteshtheqa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nitesh%20Wayafalkar-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nitesh-wayafalkar-5421a08b/)
 
 ## 🔭 What I'm currently focused on:
