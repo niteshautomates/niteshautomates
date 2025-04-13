@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hey Everyone 👋, I'm Nitesh Wayafalkar
 
-<!--
-**niteshtheqa/niteshtheqa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A passionate DevOps Engineer from India. I work in the Corporate IT Sector with 5 years of experience as devops engineer.
+
+[![Followers](https://img.shields.io/github/followers/jaiswaladi246?label=Followers&style=social)](https://github.com/niteshtheqa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nitesh-wayafalkar-5421a08b/)
+
+## 🔭 What I'm currently focused on:
+
+* All of my projects are available at [https://github.com/niteshtheqa](https://github.com/niteshtheqa)
+* How to reach me: [office@niteshops.com](mailto:niteshwayafalkar@yahoo.com)
+
+## 🌐 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nitesh-wayafalkar-5421a08b/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/devopsshack/)
+
+## 🛠️ Languages and Tools:
+
+![Languages and Tools](https://github.com/jaiswaladi246/jaiswaladi246/blob/main/images/languages_and_tools.png)
+
+## 📊 Nitesh Wayafalkar's GitHub Stats:
+
+[![GitHub Stats](https://github.com/jaiswaladi246/jaiswaladi246/blob/main/images/github_stats.png)](https://github.com/niteshtheqa)
+
+## 🔥 GitHub Contribution Streak:
+
+[![GitHub Streak](https://github.com/jaiswaladi246/jaiswaladi246/blob/main/images/github_streak.png)](https://github.com/niteshtheqa)
+
+## 🏆 Top Contributed Repos:
