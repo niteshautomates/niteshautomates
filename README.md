@@ -9,7 +9,7 @@ A passionate DevOps Engineer from India. I work in the Corporate IT Sector with 
 
 ## 🔭 What I'm currently focused on:
 
-* All of my projects are available at [https://github.com/niteshtheqa](https://github.com/niteshautomates)
+* All of my projects are available at [https://github.com/niteshautomates](https://github.com/niteshautomates)
 * How to reach me: [office@niteshops.com](mailto:niteshwayafalkar@yahoo.com)
 
 ## 🌐 Connect with me:
