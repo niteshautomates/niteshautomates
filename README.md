@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nitesh-wayafalkar-5421a08b/"><img src="https://img.shields.io/badge/LinkedIn-Nitesh%20Wayafalkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:niteshwayafalkar2611@gmail.com"><img src="https://img.shields.io/badge/Email-office%40niteshops.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:niteshwayafalkar2611@gmail.com"><img src="https://img.shields.io/badge/Email-niteshwayafalkar2611@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/niteshautomates"><img src="https://img.shields.io/github/followers/niteshautomates?label=Followers&style=for-the-badge&logo=github" alt="Followers"/></a>
   <img src="https://komarev.com/ghpvc/?username=niteshautomates&label=Profile%20views&color=blue&style=for-the-badge" alt="Profile views"/>
 </p>
